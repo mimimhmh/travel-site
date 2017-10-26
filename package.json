@@ -21,9 +21,7 @@
   "dependencies": {
     "font-awesome": "^4.7.0",
     "jquery.easing": "^1.4.1",
-    "magnific-popup": "^1.1.0",
     "modernizr": "^3.5.0",
-    "moment": "^2.19.1",
-    "waypoints": "^4.0.1"
+    "moment": "^2.19.1"
   }
 }
